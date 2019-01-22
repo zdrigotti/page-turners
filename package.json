@@ -4,6 +4,7 @@
   "description": "Bookclub app",
   "main": "server.js",
   "scripts": {
+    "postinstall": "npm run --prefix frontend build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
