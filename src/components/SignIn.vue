@@ -1,5 +1,5 @@
 <template>
-  <h1>Sign in to get started</h1>
+  <h1>Under construction!</h1>
 </template>
 
 <script>
